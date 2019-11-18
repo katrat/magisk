@@ -1,13 +1,13 @@
 {
   "app": {
-    "version": "6.1.0-official",
-    "versionCode": "20181208",
+    "version": "6.1.0",
+    "versionCode": "165",
     "link": "https://github.com/katrat/magisk/raw/master/MagiskManager-v6.1.0.apk",
     "note": "https://github.com/katrat/magisk/raw/master/Changelog-v6.1.0.md"
   },
   "magisk": {
-    "version": "18.0-official",
-    "versionCode": "20181208",
+    "version": "18.0",
+    "versionCode": "18000",
     "link": "https://github.com/katrat/magisk/raw/master/Magisk-v18.0.zip",
     "note": "https://github.com/katrat/magisk/raw/master/Changelog-v18.0.md",
     "md5": "5ef8b28870a1d68dec5cfa4d88c1ed47"
